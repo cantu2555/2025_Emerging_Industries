@@ -1,15 +1,12 @@
-# 2025_Emerging_Industries
-Finding emerging industries in the USA 
 
 
-<h1>Finding emerging industries in the USA </h1>
+
+<h1>Finding Emerging Industries In The USA </h1>
 
 
 
 <h2>Description</h2>
-United Airlines is currently conducting research and analysis to understand its overall safety measures and financial performance over the years. This campaign is designed to disseminate crucial information to both internal teams and the public about the current state of affairs concerning safety and financial matters at United Airlines. Our proactive approach ensures transparent and accurate communication with the public, instilling confidence and trust in our operations.
-
-
+This project uses national labor and industry data to uncover emerging markets with strong growth potential and increasing workforce demand. By analyzing patterns in job creation, wage trends, and sector expansion, the goal is to highlight opportunities that align with the City of El Paso’s existing strengths. The insights gathered serve as a foundation for guiding future efforts in economic development, workforce planning, and targeted investment.
 <br />
 
 
@@ -17,8 +14,8 @@ United Airlines is currently conducting research and analysis to understand its 
 
 - <b>Python</b> 
 - <b>Jupyter Lab</b>
-- <b>PowerBI</b>
-- <b>Canva</b>
+- <b>Tableau</b>
+- <b>OpenAI API</b>
 
 <h2>Environments Used </h2>
 
@@ -28,19 +25,14 @@ United Airlines is currently conducting research and analysis to understand its 
 
 <p align="center">
 Dashboard: <br/>
-<img src="https://i.imgur.com/nvehG6R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yTy1Ady.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />
+Wage vs Growth vs Employment Size:  <br/>
+<img src="https://i.imgur.com/WbqNRx5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Infographic:  <br/>
-<img src="https://i.imgur.com/cX8vUT9.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Blog Post: <br/>
-<img src="https://i.imgur.com/vJvZGQm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-PowerPoint:  <br/>
-<img src="https://i.imgur.com/Ch4OdZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Understanding Growth: How Sectors, Industries, and Occupations Connect: <br/>
+<img src="https://i.imgur.com/fC34BWu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
